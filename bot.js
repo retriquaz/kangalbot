@@ -40,7 +40,6 @@ bot.on('message', message => {
   });  //anime çizgi film
 
 bot.on('message', message => {
-  if (message.content === config.prefix) return;
   if (message.content === config.prefix + 'help') return;
   if (message.author.bot) return;
   if (message.content.startsWith(config.prefix)) {
