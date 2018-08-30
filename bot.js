@@ -40,6 +40,7 @@ bot.on('message', message => {
   });  //anime çizgi film
 
 bot.on('message', message => {
+  if (message.content === config.prefix) return;
   if (message.content === config.prefix + 'help') return;
   if (message.author.bot) return;
   if (message.content.startsWith(config.prefix)) {
@@ -56,6 +57,7 @@ bot.on('message', message => {
  });   //help
 
 bot.on('message', message => {
+  if (message.content === config.prefix) return;
   if (message.content === config.prefix + 'kangal') return;
   if (message.author.bot) return;
   if (message.content.startsWith(config.prefix)) {
@@ -75,6 +77,7 @@ bot.on('message', message => {
   }); //kangal
 
 bot.on('message', message => {
+  if (message.content === config.prefix) return;
   if (message.content === config.prefix + 'shiba') return;
   if (message.author.bot) return;
   if (message.content.startsWith(config.prefix)) {
