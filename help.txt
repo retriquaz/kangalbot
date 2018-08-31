@@ -1,4 +1,0 @@
-kb help     -   Zaten Buradasın Malatyalım.
-kb kangal   -   Kangallık seviyenizi test edebilirsiniz.
-kb shiba    -   Muhterem Shiba'ya tapabilirsiniz.
-Special thanks 2 Melis the Dragon Slayer and İbo the Shiba sever.
