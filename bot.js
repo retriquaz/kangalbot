@@ -311,4 +311,4 @@ bot.on('ready', () => {
      console.log('Bot Hazır');
 });    // bot hazır ve bot oyunu
 
-bot.login(config.token)
+bot.login(process.env.BOT_TOKEN)
