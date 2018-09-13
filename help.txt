@@ -5,5 +5,5 @@ kb wtf @TAG   -    Karşınızdaki saçma sapan bir şey mi söyledi? Birde bunu
 kb dogs       -    18 farklı köpek türünden birini sunar.
 kb dogs tür   -    Görüntülediğiniz köpek türünün adını tür kısmına yazarak bilgi alabilirsiniz.
 kangal Soru?  -    Kangal bota soru sorabilirsiniz.
-Bot Version   -    4.1
+Bot Version   -    4.2
 Special thanks 2 Melis the Dragon Slayer, İbo the Shiba Sever and n0on the GAY.
