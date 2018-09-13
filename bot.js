@@ -322,6 +322,7 @@ bot.on('message', message => {
 }) //slayerblue
 
 bot.on('message', message => {
+	 message.content = message.content.toLowerCase();
 	 if (message.content.startsWith("kangal")) {
 
 		 message.reply(randomCevap())
