@@ -1,6 +1,6 @@
 {
   "name": "kb",
-  "version": "1.0.0",
+  "version": "4.3",
   "description": "kangalbot",
   "main": "bot.js",
   "scripts": {
