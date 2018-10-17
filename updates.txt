@@ -1,0 +1,33 @@
+```
+Sürüm 5.3
+
+Yenilikler:
+1. Komut sistemi tamamen yenilendi.
+2. kb dogs'a pitbull eklendi.
+3. Iq ölçer eklendi.
+
+Düzeltmeler:
+1. Belli başlı embed renk sorunları düzeltildi.
+2. kb wtf fotoğrafı değiştirildi.
+
+```
+
+```
+Sürüm 5.1
+
+Yenilikler:
+1. kb love komutu eklendi.
+2. kb bro komutu eklendi.
+3. kb samoyed komutu eklendi.
+4. 54 adet shiba fotoğrafı eklendi.
+5. 75 adet samoyed fotoğrafı eklendi.
+6. kb updates komutu eklendi.
+
+Düzeltmeler:
+1. Sonunda kangal soru komutundaki sorun düzeltildi.
+2. kb help ve kb komutlarındaki fotoğraf kaldırıldı.
+3. Yenilenmiş kb ve kb help arayüzü.
+
+```
+
+`Heil Kangal`
