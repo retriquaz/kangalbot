@@ -6,6 +6,9 @@ Yenilikler:
 
 Düzeltmeler:
 1. Komut işlemlerindeki tüm komutları etkiliyen bir hata çözüldü.
+2. kb bro komutu artık birini tag lemezseniz hata vericek.
+3. kb love komutu artık birini tag lemezseniz hata vericek.
+3. kb wtf komutu artık birini tag lemezseniz hata vericek.
 
         Herobrine kaldırıldı.
         
