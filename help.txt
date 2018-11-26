@@ -1,0 +1,15 @@
+```
+kb kangal     -    Kangal türünüzü test edebilirsiniz.
+kb shiba      -    Muhterem Shibaya'ya tapabilirsiniz.
+kb samoyed    -    Birbirinden tatlı köpüşler.
+kb iq         -    Iq ölçer ile görelim şeklinizi.
+kb wtf @TAG   -    Karşınızdaki saçma sapan bir şey mi söyledi? Birde bunu dene derim.
+kb dogs       -    18 farklı köpek türünden birini sunar.
+kb dogs tür   -    Görüntülediğiniz köpek türünün adını tür kısmına yazarak bilgi alabilirsiniz.
+kb love @TAG  -    I love U
+kb bro  @TAG  -    Bro'nuza sevginizi gösterin.
+kangal Soru?  -    Kangal bota soru sorabilirsiniz.
+kb updates    -    Son sürüm ile neler değişti?
+Bot Version   -    5.5
+Special thanks 2 Melis the Dragon Slayer, İbo the Shiba Sever and n0on the GAY.
+```
