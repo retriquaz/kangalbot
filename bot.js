@@ -8,6 +8,8 @@ bot.setMaxListeners(0);
 
 
 var prefix = config.prefix;
+var ownerId1 = config.ownerId1
+var ownerId2 = config.ownerId2
 var helplist = fs.readFileSync('./help.txt', 'utf8');
 bot.helplist = helplist;
 var updates = fs.readFileSync('./updates.txt', 'utf8');
