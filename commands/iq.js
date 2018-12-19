@@ -11,7 +11,7 @@ var num = Math.floor(Math.random() * (max - min + 1)) + min;
 
 if (message.content !== "kb iq"){
  return
-}else if(message.author.id === bot.config.ownerId2){
+}else if(message.author.id === bot.config.ownerId1){
 	
 	const embed = new Discord.RichEmbed()
    .setColor(0xFF0000)
