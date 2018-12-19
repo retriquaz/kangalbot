@@ -19,7 +19,7 @@ if (message.content !== "kb iq"){
    .setAuthor("KangalBot", "https://cdn.discordapp.com/avatars/484411378556338179/62f4ef653ecb1d495eca978ff1ebd781.png?size=128")
    .setFooter("İçin Oluşturuldu", message.author.avatarURL)
    .setTimestamp()
-   .setDescription("Hırrrrrrrrrrrrrrr. " + message.author.toString() + " Bence Senin IQ'un\n \n **"+ num +"**")
+   .setDescription("Hırrrrrrrrrrrrrrr. " + message.author.toString() + " Bence Senin IQ'un\n \n **10**")
  message.channel.send(embed);
 	
 }else if(message.author.id === bot.config.ownerId2){
@@ -41,7 +41,7 @@ if (message.content !== "kb iq"){
    .setAuthor("KangalBot", "https://cdn.discordapp.com/avatars/484411378556338179/62f4ef653ecb1d495eca978ff1ebd781.png?size=128")
    .setFooter("İçin Oluşturuldu", message.author.avatarURL)
    .setTimestamp()
-   .setDescription("Hırrrrrrrrrrrrrrr. " + message.author.toString() + " Bence Senin IQ'un\n \n **10**")
+   .setDescription("Hırrrrrrrrrrrrrrr. " + message.author.toString() + " Bence Senin IQ'un\n \n **"+ num +"**")
  message.channel.send(embed);
  }
 }
