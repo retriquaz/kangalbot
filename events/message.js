@@ -44,6 +44,10 @@ module.exports = (bot, message) => {
    if(message.content.toLowerCase() === 'hav'){
      message.reply('Hırrrrr')
    }//havv hırrr
+   
+   if(message.content.toLowerCase() === 'ramiqk'){
+	   message.reply("<@452912036670865438> = Amına kodumun orospu çocuuu")
+   }//slayerblue
  ////////////////////////////////Cevaplar///////////////////////////////////////
 ////////////////////////////////Event Handler///////////////////////////////////
   if (message.content.indexOf(bot.config.prefix) !== 0) return;
