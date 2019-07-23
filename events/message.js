@@ -46,7 +46,7 @@ module.exports = (bot, message) => {
    }//havv hırrr
    
    if(message.content.toLowerCase() === 'ramiqk'){
-	   message.reply("<@452912036670865438> = Amına kodumun orospu çocuuu")
+	   message.channel.send("<@452912036670865438> = Amına kodumun orospu çocuuu")
    }//slayerblue
  ////////////////////////////////Cevaplar///////////////////////////////////////
 ////////////////////////////////Event Handler///////////////////////////////////
