@@ -2,7 +2,9 @@ const Discord = require("discord.js");
 
 exports.run = (bot, message, args) => {
   if (message.channel.type == "dm"){
-	  return;
+	  
+	  message.reply("Bu komut dm den kullanıma açık değildir.")
+	  
     }
   else if(!message.content.startsWith("kb ")){
       return;
