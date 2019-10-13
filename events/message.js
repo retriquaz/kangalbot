@@ -46,8 +46,13 @@ module.exports = (bot, message) => {
    }//havv hırrr
    
    if(message.content.toLowerCase() === 'ramiqk'){
-	   message.channel.send("<@452912036670865438> = Amına kodumun orospu çocuuu")
+	   message.reply("<@452912036670865438> = Amına kodumun orospu çocuuu")
    }//slayerblue
+   if(message.content.contain.toLowerCase() === 'sigara'){
+	   message.reply("<@627482377865658378> <3 Cuaracı Reis",{
+   file: "https://cdn.discordapp.com/attachments/632886286788591636/632914077575806996/5fb770ebf3536806fb8069bf171fef5c.jpg"
+   })
+   }//iloş
  ////////////////////////////////Cevaplar///////////////////////////////////////
 ////////////////////////////////Event Handler///////////////////////////////////
   if (message.content.indexOf(bot.config.prefix) !== 0) return;
