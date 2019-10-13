@@ -1,7 +1,10 @@
 const Discord = require("discord.js");
 
 exports.run = (bot, message, args) => {
-  if(!message.content.startsWith("kb ")){
+  if (message.channel.type == "dm"){
+	  return;
+    }
+  else if(!message.content.startsWith("kb ")){
       return;
     }
   else if(message.content === "kb gebert"){
@@ -10,8 +13,8 @@ exports.run = (bot, message, args) => {
 
     } else {
   const embed = new Discord.RichEmbed()
-    .setColor(0x800040)
-    .setImage(url='https://pics.me.me/omae-wa-mou-shindeiru-35864766.png')
+    .setColor(0x1752220)
+    .setImage(url='https://i.hizliresim.com/5Nzl4R.png')
   message.channel.send("" + message.author.toString() + " :coffin: " + message.mentions.members.first() + "", embed);
 }
 }
