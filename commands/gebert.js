@@ -14,7 +14,7 @@ exports.run = (bot, message, args) => {
     } else {
   const embed = new Discord.RichEmbed()
     .setColor(1752220)
-    .setImage(url='https://i.hizliresim.com/5Nzl4R.png')
+    .setImage(url='https://pics.me.me/omae-wa-mou-shindeiru-35864766.png')
   message.channel.send("" + message.author.toString() + " :coffin: " + message.mentions.members.first() + "", embed);
 }
 }
