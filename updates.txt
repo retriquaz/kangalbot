@@ -1,6 +1,10 @@
 ﻿```
 Sürüm 5.7.1
 
+Yenilikler:
+1. kb gebert komutu eklendi.
+2. Yeni gizli komutlar devrede.
+
 Eksiltmeler:
 1. Tantuni Bot a yeni gelen özellik sebebi ile sunucuya yeni katılanları karşılama kaldırıldı.
 
