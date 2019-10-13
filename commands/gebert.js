@@ -13,7 +13,7 @@ exports.run = (bot, message, args) => {
 
     } else {
   const embed = new Discord.RichEmbed()
-    .setColor(0x1752220)
+    .setColor(1752220)
     .setImage(url='https://i.hizliresim.com/5Nzl4R.png')
   message.channel.send("" + message.author.toString() + " :coffin: " + message.mentions.members.first() + "", embed);
 }
