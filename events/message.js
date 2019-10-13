@@ -56,7 +56,7 @@ module.exports = (bot, message) => {
    }//iloş
    if(message.content.toLowerCase() === 'ceyo'){
 	   message.reply("Hoooooop Reis koş ceyo gidiyor",{
-   file: "https://i.ibb.co/j6Z99Lg/c7c95da371a4dac75748b05552d3ea01.jpg"
+   file: "https://i.hizliresim.com/RgRZ66.png"
    })
    }//ceyo
  ////////////////////////////////Cevaplar///////////////////////////////////////
