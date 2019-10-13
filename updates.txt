@@ -8,6 +8,9 @@ Yenilikler:
 Eksiltmeler:
 1. Tantuni Bot a yeni gelen özellik sebebi ile sunucuya yeni katılanları karşılama kaldırıldı.
 
+Düzeltmeler:
+1. Bazı komutların özelden kullanılması durumunda oluşan çökme için önlem alındı.
+
         Herobrine kaldırıldı.
      
 ```
