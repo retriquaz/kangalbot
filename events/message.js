@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const sigara = "sigara";
 var InfiniteLoop = require('infinite-loop');
 var il = new InfiniteLoop;
 
