@@ -47,7 +47,7 @@ module.exports = (bot, message) => {
    }//havv hırrr
    
    if(message.content.toLowerCase() === 'ramiqk'){
-	   message.reply("<@452912036670865438> = Amına kodumun orospu çocuuu")
+	   message.channel.send("<@452912036670865438> = Amına kodumun orospu çocuuu")
    }//slayerblue
    if(message.content.includes(sigara)){
 	   message.channel.send("İloş :heart: Cuaracı Reis",{
@@ -55,7 +55,7 @@ module.exports = (bot, message) => {
    })
    }//iloş
    if(message.content.toLowerCase() === 'ceyo'){
-	   message.reply("Hoooooop Reis koş ceyo gidiyor",{
+	   message.channel.send("Hoooooop Reis koş ceyo gidiyor",{
    file: "https://i.hizliresim.com/RgRZ66.png"
    })
    }//ceyo
