@@ -48,7 +48,7 @@ module.exports = (bot, message) => {
    if(message.content.toLowerCase() === 'ramiqk'){
 	   message.reply("<@452912036670865438> = Amına kodumun orospu çocuuu")
    }//slayerblue
-   if(message.content.includes === 'sigara'){
+   if(message.content.includes(sigara)){
 	   message.reply("<@627482377865658378> <3 Cuaracı Reis",{
    file: "https://cdn.discordapp.com/attachments/632886286788591636/632914077575806996/5fb770ebf3536806fb8069bf171fef5c.jpg"
    })
