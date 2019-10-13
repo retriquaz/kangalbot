@@ -54,7 +54,7 @@ module.exports = (bot, message) => {
    file: "https://cdn.discordapp.com/attachments/632886286788591636/632914077575806996/5fb770ebf3536806fb8069bf171fef5c.jpg"
    })
    }//iloş
-   if(message.content.toLowerCase() === 'ceyo')){
+   if(message.content.toLowerCase() === 'ceyo'){
 	   message.channel.reply("Hoooooop Reis koş ceyo gidiyor",{
    file: "https://i.ibb.co/j6Z99Lg/c7c95da371a4dac75748b05552d3ea01.jpg"
    })
