@@ -1,5 +1,4 @@
 const Discord = require("discord.js");
-const sigara = "sigara";
 var InfiniteLoop = require('infinite-loop');
 var il = new InfiniteLoop;
 
@@ -48,13 +47,19 @@ module.exports = (bot, message) => {
    
    if(message.content.toLowerCase() === 'ramiqk'){
 	   message.channel.send("<@452912036670865438> = Amına kodumun orospu çocuuu")
-   }//slayerblue
+   }//ramiqk
+   if(message.content.toLowerCase() === 'arın'){
+	   message.channel.send("<@646790140991111178> = Fecr-i ahvalini siktimin götvereni")
+   }//neroxsy
+   if(message.content.toLowerCase() === 'seymen'){
+	   message.channel.send("<@425595255535042570> = Amua goduuumun amkeş piçi")
+   }//seymen
    if(message.content.includes(sigara)){
 	   message.channel.send("İloş :heart: Cuaracı Reis",{
    file: "https://cdn.discordapp.com/attachments/632886286788591636/632914077575806996/5fb770ebf3536806fb8069bf171fef5c.jpg"
    })
    }//iloş
-   if(message.content.toLowerCase() === 'ceyo'){
+      if(message.content.toLowerCase() === 'ceyo'){
 	   message.channel.send("Hoooooop Reis koş ceyo gidiyor",{
    file: "https://i.hizliresim.com/RgRZ66.png"
    })
