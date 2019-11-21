@@ -54,7 +54,7 @@ module.exports = (bot, message) => {
    if(message.content.toLowerCase() === 'seymen'){
 	   message.channel.send("<@425595255535042570> = Amua goduuumun amkeş piçi")
    }//seymen
-   if(message.content.includes(sigara)){
+   if(message.content.includes('sigara')){
 	   message.channel.send("İloş :heart: Cuaracı Reis",{
    file: "https://cdn.discordapp.com/attachments/632886286788591636/632914077575806996/5fb770ebf3536806fb8069bf171fef5c.jpg"
    })
