@@ -55,15 +55,15 @@ module.exports = (bot, message) => {
 	   message.channel.send("<@425595255535042570> = Amua goduuumun amkeş piçi")
    }//seymen
    //if(message.content.includes('sigara')){
-	   message.channel.send("İloş :heart: Cuaracı Reis",{
-   file: "https://cdn.discordapp.com/attachments/632886286788591636/632914077575806996/5fb770ebf3536806fb8069bf171fef5c.jpg"
-   })
-   }//iloş
+//	   message.channel.send("İloş :heart: Cuaracı Reis",{
+  // file: "https://cdn.discordapp.com/attachments/632886286788591636/632914077575806996/5fb770ebf3536806fb8069bf171fef5c.jpg"
+   //})
+   //}//iloş
       //if(message.content.toLowerCase() === 'ceyo'){
-	   message.channel.send("Hoooooop Reis koş ceyo gidiyor",{
-   file: "https://i.hizliresim.com/RgRZ66.png"
-   })
-   }//ceyo
+	//   message.channel.send("Hoooooop Reis koş ceyo gidiyor",{
+  // file: "https://i.hizliresim.com/RgRZ66.png"
+  // })
+  //}//ceyo
  ////////////////////////////////Cevaplar///////////////////////////////////////
 ////////////////////////////////Event Handler///////////////////////////////////
   if (message.content.indexOf(bot.config.prefix) !== 0) return;
