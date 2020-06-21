@@ -46,7 +46,7 @@ module.exports = (bot, message) => {
    }//havv hırrr
    
    if(message.content.toLowerCase() === 'ramiqk'){
-	   message.channel.send("<@452912036670865438> = Amına kodumun orospu çocuuu")
+	   message.channel.send("<@689556061673226292> = Amına kodumun orospu çocuuu")
    }//ramiqk
    if(message.content.toLowerCase() === 'arın'){
 	   message.channel.send("<@646790140991111178> = Fecr-i ahvalini siktimin götvereni")
