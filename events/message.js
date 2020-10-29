@@ -52,7 +52,7 @@ module.exports = (bot, message) => {
 	   message.channel.send("<@646790140991111178> = Fecr-i ahvalini siktimin götvereni")
    }//neroxsy
    if(message.content.toLowerCase() === 'seymen'){
-	   message.channel.send("<@425595255535042570> = Amua goduuumun amkeş piçi")
+	   message.channel.send("<@575769177948684288> = Amua goduuumun amkeş piçi")
    }//seymen
    //if(message.content.includes('sigara')){
 //	   message.channel.send("İloş :heart: Cuaracı Reis",{
