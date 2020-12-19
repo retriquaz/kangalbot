@@ -19,6 +19,6 @@ exports.run = (bot, message, args) => {
     .setImage(url='https://image.ibb.co/bvrkM9/bro.jpg')
     .setFooter("İçin Oluşturuldu", message.author.avatarURL)
     .setTimestamp()
-  message.channel.send(" Broooooooooooooo " + message.mentions.members.first() + " I Love You Bro <3" , embed);
+  message.channel.send(" Broooooooooooooo " + message.mentions.users.first() + " I Love You Bro <3" , embed);
 }
 }
