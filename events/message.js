@@ -36,9 +36,7 @@ module.exports = (bot, message) => {
   }; //anime çizgi film
 
   if(message.content.toLowerCase() === 'slayerblue'){
-     message.channel.send("<@361552512165347329> = Amına koduğumun ruh hastası.",{
-   file: "https://image.ibb.co/hc7oQU/Ads_z.jpg"
-   })
+     message.channel.send("<@361552512165347329> = Amına koduğumun ruh hastası.",)
    }//slayerblue
 
    if(message.content.toLowerCase() === 'hav'){
