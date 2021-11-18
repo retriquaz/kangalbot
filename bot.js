@@ -95,11 +95,11 @@ fs.readdir("./commands/", (err, files) => {
 //////////////////////////////////////Tantuni Cevap/////////////////////////////////////
 bot.on('message', message => {
   if (message.author.bot){
-    if (message.content === "Bana Bak <@484411378556338179>"){
+    if (message.content === "Bana Bak <@693495458403713104>"){
       message.reply("Baktım Tantuni Söyle")
-    } else if (message.content === 'Eeeeeey <@484411378556338179> Sen kimsin?'){
+    } else if (message.content === 'Eeeeeey <@693495458403713104> Sen kimsin?'){
       message.reply("Anana sor")
-    } else if (message.content === '<@484411378556338179> En ağır yerinden vursada hayat, besmele çek ayağa kalk'){
+    } else if (message.content === '<@693495458403713104> En ağır yerinden vursada hayat, besmele çek ayağa kalk'){
       message.reply("IYI DeDiN GıRaL")
     } else if (message.content === 'hoşt ulan'){
       message.reply("Siktir Hav")
