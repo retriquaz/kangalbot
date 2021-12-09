@@ -37,7 +37,7 @@ module.exports = (bot, message) => {
 
   if(message.content.toLowerCase() === 'slayerblue'){
      message.channel.send("<@361552512165347329> = Amına koduğumun ruh hastası.",{
-   files: ["https://image.ibb.co/hc7oQU/Ads_z.jpg"]
+   files: ["https://i.hizliresim.com/1en2s9w.jpg"]
    })
    }//slayerblue
 
