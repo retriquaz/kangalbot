@@ -36,7 +36,9 @@ module.exports = (bot, message) => {
   }; //anime çizgi film
 
   if(message.content.toLowerCase() === 'slayerblue'){
-     message.channel.send("<@361552512165347329> = Amına koduğumun ruh hastası.",)
+     message.channel.send("<@361552512165347329> = Amına koduğumun ruh hastası.",{
+   file: "https://image.ibb.co/hc7oQU/Ads_z.jpg"
+   })
    }//slayerblue
 
    if(message.content.toLowerCase() === 'hav'){
@@ -59,7 +61,7 @@ module.exports = (bot, message) => {
    //}//iloş
       //if(message.content.toLowerCase() === 'ceyo'){
 	//   message.channel.send("Hoooooop Reis koş ceyo gidiyor",{
-  // file: "https://i.hizliresim.com/RgRZ66.png"
+  // file: "https://i.hizliresim.com/1en2s9w.jpg"
   // })
   //}//ceyo
  ////////////////////////////////Cevaplar///////////////////////////////////////
