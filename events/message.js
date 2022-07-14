@@ -40,6 +40,12 @@ module.exports = (bot, message) => {
    files: ["https://i.hizliresim.com/1en2s9w.jpg"]
    })
    }//slayerblue
+	
+  if(message.content.toLowerCase() === 'melis'){
+     message.channel.send("<@408993141686009866> = Ödemişin ilk gay atkivisti.",{
+   files: ["https://i.hizliresim.com/dw14fi2.jpg"]
+   })
+   }//melis
 
    if(message.content.toLowerCase() === 'hav'){
      message.reply('Hırrrrr')
