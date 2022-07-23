@@ -119,4 +119,4 @@ bot.on('messageCreate', message => {
 })
 //////////////////////////////////////Tantuni Cevap/////////////////////////////////////
 bot.on('error', console.error);
-bot.login('MTAwMDE0NDU2ODAwMTQ5NTExMQ.GHIWrI.HcvMsLEitqfMjlgOnfgZNxq1v1ZWLnorfvnlhY')//process.env.BOT_TOKEN
+bot.login(process.env.BOT_TOKEN)//process.env.BOT_TOKEN
