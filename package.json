@@ -1,0 +1,23 @@
+{
+  "name": "kangalbot",
+  "version": "5.7.2",
+  "description": "Official KangalBOT",
+  "main": "bot.js",
+  "scripts": {
+    "test": "kb help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kangalbot"
+  },
+  "keywords": [
+    "kangal"
+  ],
+  "author": "RetriquAz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "enmap": "^5.9.0",
+    "infinite-loop": "^0.2.2"
+  }
+}

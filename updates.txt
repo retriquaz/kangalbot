@@ -1,0 +1,75 @@
+```
+
+Sürüm 5.8.0
+
+Yenilikler:
+1. Discord.js v14 güncellemesi.
+
+Eksiltmeler:
+1. Shiba ve Samoyed komutları resimlerin ölmesi sonucu deaktif edildi.
+
+Düzeltmeler:
+1. Bazı komutların içerdiği açıklardan dolayı kullanılması durumunda oluşan çökme için önlem alındı.
+
+        Herobrine kaldırıldı.
+
+```
+```
+Sürüm 5.7.1
+
+Yenilikler:
+1. kb gebert komutu eklendi.
+2. Yeni gizli komutlar devrede.
+
+Eksiltmeler:
+1. Tantuni Bot a yeni gelen özellik sebebi ile sunucuya yeni katılanları karşılama kaldırıldı.
+
+Düzeltmeler:
+1. Bazı komutların özelden kullanılması durumunda oluşan çökme için önlem alındı.
+
+        Herobrine kaldırıldı.
+
+```
+```
+Sürüm 5.7
+
+Düzeltmeler:
+1. Hoşgeldin ve updates mesajları ile ilgili bir hata düzeltildi.
+
+        Herobrine kaldırıldı.
+
+```
+```
+Sürüm 5.6
+
+Yenilikler:
+1. bot başladığında mesaj atıcak.
+2. Sunucuya birisi geldiğinde bot karşılayacak.
+
+Düzeltmeler:
+1. kb iq yazı embed içine alındı.
+2. kb iq sayı düzenlemesi.
+3. Bazı hata düzeltmeleri.
+
+        Herobrine kaldırıldı.
+
+```
+
+```
+Sürüm 5.5
+
+Yenilikler:
+1. Tantuni bot uyumluluğu getirildi.
+
+Düzeltmeler:
+1. Komut işlemlerindeki tüm komutları etkiliyen bir hata çözüldü.
+2. kb bro komutu artık birini tag lemezseniz hata vericek.
+3. kb love komutu artık birini tag lemezseniz hata vericek.
+3. kb wtf komutu artık birini tag lemezseniz hata vericek.
+
+        Herobrine kaldırıldı.
+
+```
+
+
+`Heil Kangal`
